@@ -1,6 +1,7 @@
 # DAM2
 For Project
 
-JUAN
-HAITI
-MOHAMMED KARADI
+Juan
+Haiti
+Paula
+Mohammed
